@@ -1,2 +1,2 @@
 # roPlot
-plotting toos for RO
+plotting tools for RO
